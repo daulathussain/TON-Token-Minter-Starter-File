@@ -13,7 +13,7 @@ In this video, we'll walk you through building and deploying a powerful TON Toke
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ton-blockchain-token-creator-dapp-or-next.js-jetton-or-launch-your-ton-token-creator-dapp)
 
 #### Setup Video
 
